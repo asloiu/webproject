@@ -1,0 +1,13 @@
+---
+description: Nyra product spec and phase discipline
+alwaysApply: true
+---
+
+Follow `docs/MASTER_SPEC.md`.
+
+- Work **one phase at a time**. Do not implement later-phase features unless the user explicitly starts that phase.
+- **Current completed phase:** 0 (scaffolding). **Next:** Phase 1 (core loop: auth, companions, chat SSE, memory + moderation workers).
+- Content boundary: romantic, never sexually explicit — must be enforced server-side (prompt + moderation), not model defaults alone.
+- LLM calls only through `apps/api/src/lib/claude-client.ts`.
+- No secrets in git. Stack is fixed (Next.js, Fastify, Prisma, pgvector, Redis/BullMQ, Auth.js, Anthropic, Stripe, SSE).
+- Out of MVP until later phases: user-created companions, voice/images, push, credits, referrals.
