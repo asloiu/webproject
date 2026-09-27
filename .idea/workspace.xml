@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b1b855c-2b45-4ea9-994c-42e3330c1643" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.artifacts/a229bba2-631f-43a9-9d0a-0269816ce06d/implementation_plan.artifact.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.artifacts/a229bba2-631f-43a9-9d0a-0269816ce06d/walkthrough.artifact.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.artifacts/a866eaaf-2203-4a13-b09c-fee8415b5e14/implementation_plan.artifact.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.artifacts/b9a14ff7-7425-493d-a65c-33bcf29a8c4a/implementation_plan.artifact.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.artifacts/dcffea0c-33e0-482d-9e31-e294f9855e1e/implementation_plan.artifact.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deviceManager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/test_package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/test_package2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/test_package3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ts_commonjs_default_export.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ts_commonjs_default_export2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ts_commonjs_default_export3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/nyra-ai.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DB_SETUP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GOOGLE_OAUTH_SETUP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/scripts/test_billing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/scripts/test_memory.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/lib/ai-provider.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/lib/auth-utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/lib/embedding-client.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/lib/pricing-config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/routes/admin.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/routes/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/routes/billing.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/routes/chat.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/routes/companions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/routes/growth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/routes/media.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/routes/onboarding.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/routes/personalization.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/services/auth-service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/services/billing-service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/services/growth-service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/services/landing-service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/services/media-service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/services/memory-service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/services/moderation-service.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/services/moderation-service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/src/services/personalization-service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/api/verify_lifecycle.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/app/(app)/chat/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/app/(app)/chat/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/app/(app)/discover/DiscoverClient.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/app/(marketing)/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/app/admin/companions/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/app/admin/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/app/admin/ledger/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/app/admin/login/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/app/admin/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/app/admin/plans/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/app/admin/reports/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/app/admin/transactions/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/app/admin/users/[id]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/app/admin/users/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/app/api/auth/[...nextauth]/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/app/api/auth/register/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/app/legal/[slug]/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/auth.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/check_user_db.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/Providers.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/auth/AgeGate.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/chat/ChatHeader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/chat/ChatInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/chat/ChatMessage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/chat/CompanionDetailSidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/chat/ConversationSidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/chat/DateSeparator.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/chat/ReportModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/chat/TypingIndicator.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/compliance/ComplianceCheck.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/landing/DiscoveryGallery.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/landing/Hero.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/marketing/AgeGate.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/marketing/AgeVerification.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/marketing/ChatDemo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/marketing/CompanionCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/marketing/Features.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/marketing/Hero.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/marketing/HeroDiscovery.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/marketing/InteractionShowcase.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/marketing/MemoryShowcase.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/marketing/MobileBottomNav.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/marketing/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/marketing/Personalization.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/marketing/Pricing.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/marketing/SocialProof.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/marketing/SupportFooter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/onboarding/AgeGate.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/ui/AuthModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/ui/ErrorBoundary.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/ui/PersonaCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/ui/PremiumButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/components/ui/PricingModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/content/legal/privacy-v1.0.0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/content/legal/tos-v1.0.0.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/get_admin_token.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/lib/api-client.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/lib/companions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/lib/constants.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/lib/data/companions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/lib/design-system.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/middleware.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Aria.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Aurora.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Ava.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Celeste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Chloe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Elara.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Elena.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Iris.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Isabella.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Jade.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Kai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Lila.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Luna.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Martina.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Maya.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Nova.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Remy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Seraphina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Sophia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Tatiana.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Vesper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/public/companion-images/Zara.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/styles/theme.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/web/test_verify.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lint-staged.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/db/prisma/migrations/20260906152355_add_stripe_event/migration.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/db/prisma/migrations/20260906153252_add_preferences/migration.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/db/prisma/migrations/20260908160740_add_companion_category/migration.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/db/prisma/migrations/20260908183220_add_vibrant_landing_support/migration.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/db/prisma/migrations/20260908184126_add_companion_gallery/migration.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/db/prisma/migrations/20260919134931_add_manual_subscription_and_compliance/migration.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/db/prisma/migrations/20260919135746_add_companion_fields/migration.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/db/prisma/migrations/20260919140905_add_content_reports_and_ban/migration.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/db/prisma/migrations/20260919143747_fix_content_report_author_v2/migration.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/db/prisma/migrations/20260920093049_add_unlocked_moments/migration.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/db/prisma/migrations/20260921072110_add_reactions_and_replies_v2/migration.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/db/prisma/migrations/20260921172124_add_user_favorites/migration.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/db/prisma/migrations/20260922000000_add_user_consents/migration.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/db/prisma/seed.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start_backend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_verify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/api/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/api/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/app/(app)/chat/[relationshipId]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/app/(app)/chat/[relationshipId]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/app/(app)/companion/[slug]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/app/(app)/conversations/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/app/(app)/conversations/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/app/(app)/discover/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/app/(app)/discover/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/app/(app)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/app/(app)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/app/(app)/settings/billing/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/app/(app)/settings/billing/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/app/(app)/settings/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/app/(app)/settings/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/app/(marketing)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/app/(marketing)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/app/(marketing)/pricing/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/app/(marketing)/pricing/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/app/login/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/app/login/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/app/onboarding/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/app/onboarding/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/app/signup/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/app/signup/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/next.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/db/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/packages/db/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/db/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/db/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/db/prisma/migrations/migration_lock.toml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/db/prisma/migrations/migration_lock.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/db/prisma/schema.prisma" beforeDir="false" afterPath="$PROJECT_DIR$/packages/db/prisma/schema.prisma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3ItUxB8AeBwtsCPS3tC7M5xetdZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b1b855c-2b45-4ea9-994c-42e3330c1643" name="Changes" comment="" />
+      <created>1788583603716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788583603716</updated>
+    </task>
+    <servers />
+  </component>
+</project>
